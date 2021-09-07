@@ -1,0 +1,4 @@
+Maximiliano Meza;30;30000;B
+Jose Perez;35;40000;A
+Anabel Ruiz;40;35000;C 
+Jose Perez;52;60000;A

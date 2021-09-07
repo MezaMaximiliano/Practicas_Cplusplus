@@ -1,0 +1,22 @@
+Maximiliano;30;30000;B
+Jose;35;40000;A
+Anabel;40;35000;C
+Jose;52;60000;A
+Emilio;37;42000;B
+Alva;28;33000;C
+Ana Maria;30;60000;B
+Carlos Antonio;35;76000;A
+Maria Antonieta;40;80000;A
+Marco;33;43000;C
+Cecilia Nidia;47;65000;B
+Liliana;50;45000;C
+Julieta;19;34500;D
+Facundo;22;43500;D
+Anabelle;25;28000;E
+Marco Antonio;33;41500;C
+Debora;42;69900;A
+Tamara;37;58800;B
+Lara;41;75600;A
+Daniel;33;42800;C
+Nataly;27;35700;D
+Liliana;49;31200;E
